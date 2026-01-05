@@ -1,7 +1,7 @@
 # Tester rezystancji izolacji Riso
 
 ## Opis
-Tester rezystancji izolacji Riso jest urządzeniem przeznaczonym do sprawdzania mierników rezystancji izolacji firm takich jak Sonel, Metrel oraz innych producentów.
+Tester Riso jest urządzeniem przeznaczonym do sprawdzania mierników rezystancji izolacji firm takich jak Sonel, Metrel oraz innych producentów.
 
 Urządzenie zostało zaprojektowane jako **tester funkcjonalny**, umożliwiający bieżącą kontrolę mierników pomiędzy wzorcowaniami laboratoryjnymi, zgodnie z dobrą praktyką metrologiczną.
 
@@ -37,7 +37,7 @@ Tester należy stosować wyłącznie do kontroli funkcjonalnej. Oficjalne wzorco
 # Riso Insulation Resistance Tester
 
 ## Description
-Riso Insulation Resistance Tester is a functional testing device designed for checking insulation resistance meters from manufacturers such as Sonel, Metrel, and others.
+Riso Tester is a functional testing device designed for checking insulation resistance meters from manufacturers such as Sonel, Metrel, and others.
 
 The device was created as a **functional tester**, enabling routine verification of measuring instruments between laboratory calibrations, in accordance with good metrological practice.
 
